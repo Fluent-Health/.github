@@ -11,7 +11,9 @@
 <p align="center">
   <a href="https://fluentinhealth.com">Website</a> •
   <a href="https://fluentinhealth.com/about">About</a> •
-  <a href="https://www.linkedin.com/company/fluent-health">LinkedIn</a>
+  <a href="https://www.linkedin.com/company/fluent-health">LinkedIn</a> •
+  <a href="https://play.google.com/store/apps/details?id=com.fluenthealth.app&hl=en_IN">Google Play</a> •
+  <a href="https://apps.apple.com/us/app/fluent-health/id1670153153">App Store</a>
 </p>
 
 ---
@@ -30,7 +32,7 @@ That shapes our engineering:
 
 - **FHIR-native, cloud-agnostic.** Every service speaks the standard. Every component runs on infrastructure we can move.
 - **Defence-in-depth, end-to-end.** Zero-trust access between services, mutual TLS on the wire, encryption at rest with hardware-backed keys, short-lived credentials, signed and attested build artifacts. Security is the floor, not a feature.
-- **Generative AI at the core.** Healthcare runs on a tidal wave of documents — handwritten prescriptions, scanned reports, consult notes across a dozen languages, each in its own bespoke format. Generative models tame that complexity and turn it into structured, queryable health data you actually own.
+- **Generative AI at the core.** Healthcare runs on a tidal wave of documents — handwritten prescriptions, scanned reports, consult notes across a dozen languages, each in its own bespoke format. Our generative models tame that complexity and turn it into structured, queryable health data you actually own.
 - **Humans validate, not just review.** Every piece of clinical data is checked against source for correctness before it lands on a timeline. No inference passes as fact.
 - **Designed for India, ready for the world.** DPDPA-aligned, ABDM-interoperable, with controls mapped to ISO 27001 and SOC 2 Type II.
 
