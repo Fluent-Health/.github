@@ -9,11 +9,11 @@
 </p>
 
 <p align="center">
-  <a href="https://fluentinhealth.com">Website</a> •
-  <a href="https://fluentinhealth.com/about">About</a> •
-  <a href="https://www.linkedin.com/company/fluent-health">LinkedIn</a> •
-  <a href="https://play.google.com/store/apps/details?id=com.fluenthealth.app&hl=en_IN">Google Play</a> •
-  <a href="https://apps.apple.com/us/app/fluent-health/id1670153153">App Store</a>
+  <a href="https://fluentinhealth.com" target="_blank">Website</a> •
+  <a href="https://fluentinhealth.com/about" target="_blank">About</a> •
+  <a href="https://www.linkedin.com/company/fluent-health" target="_blank">LinkedIn</a> •
+  <a href="https://play.google.com/store/apps/details?id=com.fluenthealth.app&hl=en_IN" target="_blank">Google Play</a> •
+  <a href="https://apps.apple.com/us/app/fluent-health/id1670153153" target="_blank">App Store</a>
 </p>
 
 ---
