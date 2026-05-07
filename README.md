@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://api.fluentinhealth.io/cms/assets/c6e17da3-0c0c-4354-bcb4-a6ffeca5b7dd.png" alt="Fluent Health" height="64" />
+  <img src="https://api.fluentinhealth.io/cms/assets/c6e17da3-0c0c-4354-bcb4-a6ffeca5b7dd.png" alt="Fluent Health" width="200" />
 </p>
 
-<h1 align="center">Fluent Health</h1>
+<!-- h1 align="center">Fluent Health</h1 -->
 
 <p align="center">
   <i>Your health is too important to be everywhere.</i>
