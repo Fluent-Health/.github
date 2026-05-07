@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://api.fluentinhealth.io/cms/assets/c6e17da3-0c0c-4354-bcb4-a6ffeca5b7dd.png" alt="Fluent Health" width="380" />
+  <img src="https://api.fluentinhealth.io/cms/assets/c6e17da3-0c0c-4354-bcb4-a6ffeca5b7dd.png" alt="Fluent Health" width="360" />
 </p>
 
 <!-- h1 align="center">Fluent Health</h1 -->
