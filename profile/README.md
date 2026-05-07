@@ -10,9 +10,9 @@
 
 <p align="center">
   <a href="https://fluentinhealth.com" target="_blank">Website</a> •
-  <a href="https://fluentinhealth.com/about" target="_blank">About</a> •
-  <a href="https://www.linkedin.com/company/fluent-health" target="_blank">LinkedIn</a> •
-  <a href="https://play.google.com/store/apps/details?id=com.fluenthealth.app&hl=en_IN" target="_blank">Google Play</a> •
+  <a href="https://fluentinhealth.com/about-us" target="_blank">About</a> •
+  <a href="https://www.linkedin.com/company/fluentinhealth/" target="_blank">LinkedIn</a> •
+  <a href="https://play.google.com/store/apps/details?id=com.fluenthealth.app" target="_blank">Google Play</a> •
   <a href="https://apps.apple.com/us/app/fluent-health/id1670153153" target="_blank">App Store</a>
 </p>
 
@@ -36,7 +36,7 @@ That shapes our engineering:
 - **Humans validate, not just review.** Every piece of clinical data is checked against source for correctness before it lands on a timeline. No inference passes as fact.
 - **Designed for India, ready for the world.** DPDPA-aligned, ABDM-interoperable, with controls mapped to ISO 27001 and SOC 2 Type II.
 
-## Open source at Fluent
+## Open Source at Fluent
 
 Some of our stack is product. Some of it is plumbing. We open the plumbing — the pieces other teams shouldn't have to rebuild from scratch.
 
@@ -58,7 +58,7 @@ More repositories will follow as we extract them.
 If you're building in health tech, working on FHIR, or curious about what we do — say hi.
 
 - Web: [fluentinhealth.com](https://fluentinhealth.com)
-- Email: hello@fluentinhealth.com
+- Email: tech@fluentinhealth.com
 
 ---
 
