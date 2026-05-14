@@ -43,7 +43,7 @@ Some of our stack is product. Some of it is plumbing. We open the plumbing — t
 ### Latest
 
 **[gravitee-policy-token-exchange](https://github.com/Fluent-Health/gravitee-policy-token-exchange)**
-A Gravitee APIM policy plugin that orchestrates the `Cache -> Token Request -> Cache Store -> Header Injection` lifecycle for RFC 8693 (Token Exchange) and standard OAuth2 refresh token flows, consolidating these steps into a single execution unit,; thus improving performance, simplifying API definitions, and ensuring consistent error handling and trace context propagation.
+A Gravitee APIM policy plugin that orchestrates the `Cache -> Token Request -> Cache Store -> Header Injection` lifecycle for RFC 8693 (Token Exchange) and standard OAuth2 refresh token flows, consolidating these steps into a single execution unit; thus improving performance, simplifying API definitions, and ensuring consistent error handling and tracing context propagation.
 
 **[gravitee-reporter-otel-logs](https://github.com/Fluent-Health/gravitee-reporter-otel-logs)**
 A Gravitee APIM reporter plugin that emits structured per-request log records via the OpenTelemetry Logs SDK with export modes for `otlp` and `gcloud`, as well as support for W3C trace context fields enabling cross-service correlation with Google Cloud Trace and Sentry.
