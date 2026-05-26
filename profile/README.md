@@ -42,6 +42,9 @@ Some of our stack is product. Some of it is plumbing. We open the plumbing — t
 
 ### Latest
 
+**[terraform-provider-typesense](https://github.com/Fluent-Health/terraform-provider-typesense)**
+A Terraform provider for managing Typesense collections, documents, API keys, aliases, presets, stopwords, synonym sets, curation sets, analytics rules, conversation models, NL search models, and stemming dictionaries.
+
 **[gravitee-policy-token-exchange](https://github.com/Fluent-Health/gravitee-policy-token-exchange)**
 A Gravitee APIM policy plugin that orchestrates the `Cache -> Token Request -> Cache Store -> Header Injection` lifecycle for RFC 8693 (Token Exchange) and standard OAuth2 refresh token flows, consolidating these steps into a single execution unit; thus improving performance, simplifying API definitions, and ensuring consistent error handling and tracing context propagation.
 
