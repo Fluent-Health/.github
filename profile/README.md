@@ -71,6 +71,7 @@ If you're building in health tech, working on FHIR, are curious about what we do
 
 - Web: [fluentinhealth.com](https://fluentinhealth.com)
 - Email: tech@fluentinhealth.com
+- Linkedin: [Fluent Health](https://www.linkedin.com/company/fluentinhealth/)
 
 ---
 
