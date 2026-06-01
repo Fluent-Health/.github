@@ -67,7 +67,7 @@ More repositories will follow as we extract them.
 
 ## Get in touch
 
-If you're building in health tech, working on FHIR, or curious about what we do — say hi.
+If you're building in health tech, working on FHIR, are curious about what we do, or would like to get involved — say hi.
 
 - Web: [fluentinhealth.com](https://fluentinhealth.com)
 - Email: tech@fluentinhealth.com
