@@ -42,6 +42,9 @@ Some of our stack is product. Some of it is plumbing. We open the plumbing — t
 
 ### Latest
 
+**[terraform-stack-plan](https://github.com/Fluent-Health/terraform-stack-plan)**
+A Terraform Stack Plan utility that merges multiple `plan.json` files (e.g. from a Terramate multi-stack run) into one reviewer-friendly markdown report for a PR comment: a summary table, collapsible per-stack diffs, optional rule-based classification (e.g. flag IAM changes), and a budget-aware renderer that keeps the comment under GitHub's 65,536-byte cap. Standalone offline CLI — reads plan.json, writes markdown. No network, no credentials.
+
 **[terraform-provider-typesense](https://github.com/Fluent-Health/terraform-provider-typesense)**
 A Terraform provider for managing Typesense collections, documents, API keys, aliases, presets, stopwords, synonym sets, curation sets, analytics rules, conversation models, NL search models, and stemming dictionaries.
 
