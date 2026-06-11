@@ -42,6 +42,9 @@ Some of our stack is product. Some of it is plumbing. We open the plumbing — t
 
 ### Latest
 
+**[featbit-android-sdk](https://github.com/Fluent-Health/featbit-android-sdk)**
+A client-side feature-flag SDK for Kotlin/Android, ported from FeatBit's .NET client SDK. Evaluates flags locally and keeps them fresh by streaming updates from any FeatBit server over WebSocket (with a polling fallback), with lifecycle-aware sync that follows the Android app's foreground/background state. No coupling to Fluent Health infrastructure — point it at your own FeatBit instance.
+
 **[terraform-provider-medplum](https://github.com/Fluent-Health/terraform-provider-medplum)**
 A Terraform provider for managing Medplum FHIR resources, access policies, projects, client applications, project memberships, users, and FHIR profiles.
 
