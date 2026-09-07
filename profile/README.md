@@ -42,6 +42,9 @@ Some of our stack is product. Some of it is plumbing. We open the plumbing — t
 
 ### Latest
 
+**[gravitee-secret-provider-gcp](https://github.com/Fluent-Health/gravitee-secret-provider-gcp)**
+A Gravitee APIM secret provider that loads secrets straight out of GCP Secret Manager, instead of mirroring them into Kubernetes Secrets or baking them into configuration. It resolves `secret://gcp/...` references in `gravitee.yml` at startup, and ships an OSS expression-language shim that resolves the same secrets inside API definitions at request time — in syntax identical to Gravitee's enterprise secrets plugin, so taking a licence later is a deployment change that touches no API definition. Authenticates as the gateway's Workload Identity service account; no static key material.
+
 **[featbit-ios-sdk](https://github.com/Fluent-Health/featbit-ios-sdk)**
 A client-side feature-flag SDK for Swift/iOS, a sibling port of FeatBit's .NET and React Native client SDKs. Evaluates flags locally and keeps them fresh by streaming updates from any FeatBit server over WebSocket (with a polling fallback), with lifecycle-aware sync that follows the app's foreground/background state and SwiftUI helpers for live-updating views.
 
